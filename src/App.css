@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+button {
+  position: relative;
+  margin: 30px 0;
+  font-size: 30px;
+  padding: 15px;
+  border: 1px solid #fff;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+button:hover {
+  filter: drop-shadow(0 0 10px #fff);
+}
